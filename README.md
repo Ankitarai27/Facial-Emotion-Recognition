@@ -26,7 +26,7 @@ A real-time facial emotion detection web app using deep learning and computer vi
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Mani2625/Facial-Emotion-Recognition-.git
+git clone https://github.com/Ankitarai27/Facial-Emotion-Recognition.git
 cd Facial-Emotion-Recognition-
 ```
 ###2. Install Requirements
